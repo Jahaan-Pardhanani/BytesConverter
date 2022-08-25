@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BytesConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BytesConverter_jar</output-path>
+    <root id="archive" name="BytesConverter.jar">
+      <element id="module-output" name="BytesConverter" />
+    </root>
+  </artifact>
+</component>
